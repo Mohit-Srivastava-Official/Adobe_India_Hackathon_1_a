@@ -31,5 +31,3 @@ This project is for the Adobe India Hackathon 2025, "Connecting the Dots" challe
 
 ---
 
-## For Round 1B
-The code is modular and will be extended for persona-driven document intelligence in the next round.
